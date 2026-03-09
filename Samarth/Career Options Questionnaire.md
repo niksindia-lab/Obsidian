@@ -10,17 +10,17 @@ This questionnaire maps Samarth's strengths, ADHD profile, interests, and academ
 
 ## Section 1 — Academic Aptitude
 
-| Subject | Grade | Insight |
-|---------|-------|---------|
-| Computing / Tech | 90% | Strong — genuine interest, not just ability |
-| Geography | 94% | Exceptional — spatial reasoning, pattern thinking |
-| Music | 94% | High creative intelligence, discipline when engaged |
-| Science | 84% | Solid — AP Bio at college level in Grade 10 |
-| Math | 86% | 1 year ahead (Gr 11 Functions in Gr 10) |
-| Civics / Social | 91% | Strong analytical thinking |
-| English | 80% | Relative weak spot — interest gap, not ability gap |
-| AP Psychology (Gr 9) | 4/5 | College credit banked — shows behavioural science aptitude |
-| AP Biology (Gr 10) | In progress | 2 years ahead — strong indicator for health sciences |
+| Subject              | Grade       | Insight                                                    |
+| -------------------- | ----------- | ---------------------------------------------------------- |
+| Computing / Tech     | 90%         | Strong — genuine interest, not just ability                |
+| Geography            | 94%         | Exceptional — spatial reasoning, pattern thinking          |
+| Music                | 94%         | High creative intelligence, discipline when engaged        |
+| Science              | 84%         | Solid — AP Bio at college level in Grade 10                |
+| Math                 | 86%         | 1 year ahead (Gr 11 Functions in Gr 10)                    |
+| Civics / Social      | 91%         | Strong analytical thinking                                 |
+| English              | 80%         | Relative weak spot — interest gap, not ability gap         |
+| AP Psychology (Gr 9) | 4/5         | College credit banked — shows behavioural science aptitude |
+| AP Biology (Gr 10)   | In progress | 2 years ahead — strong indicator for health sciences       |
 
 **Overall GPA:** 89.3% Ontario (~3.7–3.8 US) — Top 5% academically
 
