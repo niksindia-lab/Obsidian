@@ -1,0 +1,19 @@
+# Obsidian internals
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/*.bak
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary / lock files
+*.tmp
+*.log
+.trash/
+
+# Sync conflicts (iCloud, Obsidian Sync)
+*.sync-conflict-*
+conflict-*
